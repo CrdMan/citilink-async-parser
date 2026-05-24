@@ -1,7 +1,7 @@
 import asyncio
 import json
 import logging
-from typing import Any, Dict, List, Optional
+from typing import Any
 from bs4 import BeautifulSoup
 from playwright.async_api import async_playwright
 import re
