@@ -20,5 +20,5 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_НИКНЕЙМ/citilink-parser.git](https://github.com/ВАШ_НИКНЕЙМ/citilink-parser.git)
-   cd citilink-parser
+   git clone [https://github.com/CrdMan/citilink-async-parser.git](https://github.com/CrdMan/citilink-async-parser.git)
+   cd citilink-async-parser
