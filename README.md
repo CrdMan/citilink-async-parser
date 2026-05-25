@@ -51,4 +51,4 @@
         "ram": "8 ГБ",
         "gpu": "Intel UHD Graphics"
     }
-]
+   ]
